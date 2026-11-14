@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,Fixed-size,373,-,Page-level metadata,No,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Fixed-size chunks provide consistent text windows with overlap,26.09%,47.83%,42.86%,71.43%,373 chunks
+B,Paragraph-based,530,0,Section and section_id metadata,No,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Paragraph and heading boundaries preserve semantic context,34.78%,47.83%,42.86%,42.86%,530 chunks
+C,Paragraph-based,530,0,Section and section_id metadata,Yes,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Metadata filtering improves retrieval relevance for section-specific queries,34.78%,47.83%,42.86%,57.14%,530 chunks; filter compliance not yet evaluated
