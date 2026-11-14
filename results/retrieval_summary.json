@@ -1,0 +1,50 @@
+{
+  "A": {
+    "dev": {
+      "total_queries": 23,
+      "hit_at_1_count": 6,
+      "hit_at_1": 0.2608695652173913,
+      "evidence_hit_at_3_count": 11,
+      "evidence_hit_at_3": 0.4782608695652174
+    },
+    "test": {
+      "total_queries": 7,
+      "hit_at_1_count": 3,
+      "hit_at_1": 0.42857142857142855,
+      "evidence_hit_at_3_count": 5,
+      "evidence_hit_at_3": 0.7142857142857143
+    }
+  },
+  "B": {
+    "dev": {
+      "total_queries": 23,
+      "hit_at_1_count": 8,
+      "hit_at_1": 0.34782608695652173,
+      "evidence_hit_at_3_count": 11,
+      "evidence_hit_at_3": 0.4782608695652174
+    },
+    "test": {
+      "total_queries": 7,
+      "hit_at_1_count": 3,
+      "hit_at_1": 0.42857142857142855,
+      "evidence_hit_at_3_count": 3,
+      "evidence_hit_at_3": 0.42857142857142855
+    }
+  },
+  "C": {
+    "dev": {
+      "total_queries": 23,
+      "hit_at_1_count": 8,
+      "hit_at_1": 0.34782608695652173,
+      "evidence_hit_at_3_count": 11,
+      "evidence_hit_at_3": 0.4782608695652174
+    },
+    "test": {
+      "total_queries": 7,
+      "hit_at_1_count": 3,
+      "hit_at_1": 0.42857142857142855,
+      "evidence_hit_at_3_count": 4,
+      "evidence_hit_at_3": 0.5714285714285714
+    }
+  }
+}

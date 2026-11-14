@@ -1,0 +1,1657 @@
+[
+  {
+    "question_id": "Q001",
+    "strategy": "A",
+    "split": "dev",
+    "question": "What is a monopoly?",
+    "expected_answer": "A monopoly is a market in which one firm produces all of the output.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 2,
+        "quote": "In the case of monopoly, one firm produces all of the output in a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "monopoly a situation in which one firm produces all of the output in a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p8-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 8,
+        "score": 0.7585931872483129,
+        "matches_gold": false,
+        "text": "nes the market? A monopoly is a firm that sells all or nearly all of the goods and services in a given market. However, what defines the “market”?\n\nIn a famous 1947 case, the federal government accused the DuPont company of having a monopoly in the cellophane market, pointing out that DuPont produced 75% of the cellophane in the United States. DuPont countered that even though it had a 75% market share in cellophane, it had less than a 20% share of the “flexible packaging materials,” which inclu"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.7522008194863582,
+        "matches_gold": true,
+        "text": "ost monopoly a situation in which one firm produces all of the output in a market natural monopoly economic conditions in the industry, for example, economies of scale or control of a critical\n\nresource, that limit effective competition patent a government rule that gives the inventor the exclusive legal right to make, use, or sell the invention for\n\na limited time predatory pricing when an existing firm uses sharp but temporary price cuts to discourage new competition trade secrets methods of p"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p39-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 39,
+        "score": 0.7191022205887915,
+        "matches_gold": false,
+        "text": "and Summary\n\n10.1 Monopolistic Competition\n\nMonopolistic competition refers to a market where many firms sell differentiated products. Differentiated products can arise from characteristics of the good or service, location from which the firm sells the product, intangible aspects of the product, and perceptions of the product.\n\nThe perceived demand curve for a monopolistically competitive firm is downward-sloping, which shows that it is a price maker and chooses a combination of price and quanti"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q002",
+    "strategy": "A",
+    "split": "dev",
+    "question": "What are barriers to entry?",
+    "expected_answer": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 3,
+        "quote": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "barriers to entry the legal, technological, or market forces that may discourage or prevent potential competitors from entering a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.6491946964976022,
+        "matches_gold": false,
+        "text": "ge or prevent potential competitors from entering a market. Barriers to entry can range from the simple and easily surmountable, such as the cost of renting retail space, to the extremely restrictive. For example, there are a finite number of radio frequencies available for broadcasting. Once an entrepreneur or firm has purchased the rights to all of them, no new competitors can enter the market.\n\nIn some cases, barriers to entry may lead to monopoly. In other cases, they may limit competition t"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.596483111381535,
+        "matches_gold": false,
+        "text": "\nIn some cases, barriers to entry may lead to monopoly. In other cases, they may limit competition to a few firms. Barriers may block entry even if the firm or firms currently in the market are earning profits. Thus, in markets with significant barriers to entry, it is not necessarily true that abnormally high profits will attract new firms, and that this entry of new firms will eventually cause the price to decline so that surviving firms earn only a normal level of profit in the long run.\n\nThe"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p6-chunk9",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 6,
+        "score": 0.4877471763861637,
+        "matches_gold": false,
+        "text": "ry that we have discussed. This list is not exhaustive, since firms have proved to be highly creative in inventing business practices that discourage competition. When barriers to entry exist, perfect competition is no longer a reasonable description of how an industry works. When barriers to entry are high enough, monopoly can result.\n\nAccess for free at openstax.org"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q003",
+    "strategy": "A",
+    "split": "dev",
+    "question": "What conditions lead to a natural monopoly?",
+    "expected_answer": "A natural monopoly arises when economies of scale are large relative to the quantity demanded in the market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Economists call this situation, when economies of scale are large relative to the quantity demanded in the market, a natural monopoly."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.8138794413876881,
+        "matches_gold": false,
+        "text": "e relative to the quantity demanded in the market, a natural monopoly. Natural monopolies often arise in industries where the marginal cost of adding an additional customer is very low, once the fixed costs of the overall system are in place. This results in situations where there are substantial economies of scale. For example, once a water company lays the main water pipes through a neighborhood, the marginal cost of providing water service to another home is fairly low. Once the electric comp"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.7803626787446346,
+        "matches_gold": false,
+        "text": "ellectual property include patents, copyrights, trademarks, and trade secrets. A natural monopoly arises when economies of scale persist over a large enough range of output that if one firm supplies the entire market, no other firm can enter without facing a cost disadvantage.\n\n9.2 How a Profit-Maximizing Monopoly Chooses Output and Price\n\nA monopolist is not a price taker, because when it decides what quantity to produce, it also determines the\n\nmarket price. For a monopolist, total revenue is "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.7598971271576223,
+        "matches_gold": true,
+        "text": "218 9 • Monopoly\n\nFIGURE 9.2 Economies of Scale and Natural Monopoly In this market, the demand curve intersects the long-run\n\naverage cost (LRAC) curve at its downward-sloping part. A natural monopoly occurs when the quantity demanded is less than the minimum quantity it takes to be at the bottom of the long-run average cost curve.\n\nEconomists call this situation, when economies of scale are large relative to the quantity demanded in the market, a natural monopoly. Natural monopolies often aris"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q004",
+    "strategy": "A",
+    "split": "dev",
+    "question": "In section 9.1, why were other firms unable to compete with ALCOA in aluminum in the 1930s?",
+    "expected_answer": "ALCOA controlled most of the supply of bauxite, so other firms could not produce enough aluminum to compete.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.5974167941461094,
+        "matches_gold": true,
+        "text": "y occurs when a company has control of a scarce physical resource. In the U.S. economy, one historical example of this pattern occurred when ALCOA—the Aluminum Company of America—controlled most of the supply of bauxite, a key mineral used in making aluminum. Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete.\n\nAs another example, the majority of global diamond production is controlled by DeBeers, a multi-national co"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p20-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 20,
+        "score": 0.46694557270245496,
+        "matches_gold": false,
+        "text": "charge?\n\n23 . Is a monopolist allocatively efficient? Why or why not?\n\n24 . How does the quantity produced and price charged by a monopolist compare to that of a perfectly competitive firm?\n\nCritical Thinking Questions\n\n25 . ALCOA does not have the monopoly power it once had. How do you suppose their barriers to entry were weakened?\n\n26 . Why are generic pharmaceuticals significantly cheaper than name brand ones?\n\n27 . For many years, the Justice Department has tried to break up large firms like"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p2-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 2,
+        "score": 0.4560514824405757,
+        "matches_gold": false,
+        "text": "216 9 • Monopoly\n\nStep forward in time to 1860—the eve of the American Civil War—to another near monopoly supplier of historical significance: the U.S. cotton industry. At that time, the Southern states provided the majority of the cotton Britain imported. The South, wanting to secede from the Union, hoped to leverage Britain’s high dependency on its cotton into formal diplomatic recognition of the Confederate States of America.\n\nThis leads us to this chapter's topic: a firm that controls all (o"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q005",
+    "strategy": "A",
+    "split": "dev",
+    "question": "What do governments do to create a legal monopoly?",
+    "expected_answer": "The government erects barriers to entry by prohibiting or limiting competition.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 5,
+        "quote": "For some products, the government erects barriers to entry by prohibiting or limiting competition."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "legal monopoly legal prohibitions against competition, such as regulated monopolies and intellectual property protection"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p7-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 7,
+        "score": 0.7480770945549065,
+        "matches_gold": false,
+        "text": "9.2 • How a Profit-Maximizing Monopoly Chooses Output and Price 221\n\nBarrier to Entry Government Role? Example\n\nNatural monopoly Government often responds with regulation (or ownership) Water and electric companies\n\nControl of a physical resource No DeBeers for diamonds\n\nLegal monopoly Yes Post office, past regulation of airlines and trucking\n\nPatent, trademark, and copyright\n\nYes, through protection of intellectual property New drugs or software\n\nIntimidating potential competitors Somewhat Pred"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p5-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 5,
+        "score": 0.6990691215077333,
+        "matches_gold": false,
+        "text": "e electric company, one water company, and one company to pick up the garbage. Most legal monopolies are utilities—products necessary for everyday life—that are socially beneficial. As a consequence, the government allows producers to become regulated monopolies, to ensure that customers have access to an appropriate amount of these products or services. Additionally, legal monopolies are often subject to economies of scale, so it makes sense to allow only one provider.\n\nPromoting Innovation\n\nIn"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p46-chunk6",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 46,
+        "score": 0.6875792331946365,
+        "matches_gold": false,
+        "text": "uld be allowed and when they should be blocked? The government also plays a role in policing anticompetitive behavior other than mergers, like prohibiting certain kinds of contracts that might restrict competition. In the case of natural monopoly, however, trying to preserve competition probably will not work very well, and so government will often resort to regulation of price and/or quantity of output. In recent decades, there has been a global trend toward less government intervention in the "
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q024",
+    "strategy": "A",
+    "split": "test",
+    "question": "What did the British Tea Act make the East India Company in the American colonies?",
+    "expected_answer": "The sole legal supplier of tea to the American colonies.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 1,
+        "quote": "The act continued the tax on teas and made the East India Company the sole legal supplier of tea to the American colonies."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.869650908133335,
+        "matches_gold": true,
+        "text": "polies, have helped shape history. In spring 1773, the East India Company, a firm that, in its time, was designated “too big to fail,” was experiencing financial difficulties. To help shore up the failing firm, the British Parliament authorized the Tea Act. The act continued the tax on teas and made the East India Company the sole legal supplier of tea to the American colonies. By November, the citizens of Boston had had enough. They refused to permit the unloading of tea, citing their main comp"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6660026113983856,
+        "matches_gold": false,
+        "text": "acting and pleasing customers.\n\nBRING IT HOME\n\nThe Rest is History In the opening case, we presented the East India Company and the Confederate States as a monopoly or near monopoly provider of a good. Nearly every American schoolchild knows the result of the “unwelcome visit” the “Mohawks” bestowed upon Boston Harbor’s tea-bearing ships—the Boston Tea Party. Regarding the cotton industry, we also know Great Britain remained neutral during the Civil War, taking neither side during the conflict.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6282910926168517,
+        "matches_gold": false,
+        "text": " know Great Britain remained neutral during the Civil War, taking neither side during the conflict.\n\nDid the monopoly nature of these business have unintended and historical consequences? Might the American Revolution have been deterred, if the East India Company had sailed the tea-bearing ships back to England? Might the southern states have made different decisions had they not been so confident “King Cotton” would force diplomatic recognition of the Confederate States of America? Of course, i"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q025",
+    "strategy": "A",
+    "split": "test",
+    "question": "What is the key difference between marginal revenue for a perfectly competitive firm and for a monopolist?",
+    "expected_answer": "Under perfect competition marginal revenue equals price; for a monopolist it does not, because changes in output affect the price.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 13,
+        "quote": "in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p39-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 39,
+        "score": 0.7874506242602706,
+        "matches_gold": false,
+        "text": " marginal revenue is equal to marginal cost. The monopolistic competitor will produce that level of output and charge the price that the firm’s demand curve indicates.\n\nIf the firms in a monopolistically competitive industry are earning economic profits, the industry will attract entry until profits are driven down to zero in the long run. If the firms in a monopolistically competitive\n\nindustry are suffering economic losses, then the industry will experience exit of firms until economic losses "
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p13-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 13,
+        "score": 0.7849186787057725,
+        "matches_gold": true,
+        "text": "imized where marginal revenue equals marginal cost. In this example, maximum profit occurs at 5 units of output.\n\nA perfectly competitive firm will also find its profit-maximizing level of output where MR = MC. The key difference with a perfectly competitive firm is that in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price, because changes in quantity of output affect the price.\n\nIllustrating Monopoly "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p10-chunk4",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 10,
+        "score": 0.7322310209274292,
+        "matches_gold": false,
+        "text": " the profit maximizing level of output by using the marginal approach, to which we turn next.\n\nMarginal Revenue and Marginal Cost for a Monopolist\n\nIn the real world, a monopolist often does not have enough information to analyze its entire total revenues or total costs curves. After all, the firm does not know exactly what would happen if it were to alter production dramatically. However, a monopolist often has fairly reliable information about how changing output by small or moderate amounts w"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q026",
+    "strategy": "A",
+    "split": "test",
+    "question": "In section 9.1, why can one producer serve the market more efficiently than several smaller natural-monopoly utilities?",
+    "expected_answer": "Because of economies of scale, one producer avoids the duplicate physical capital investments that smaller producers would need.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "because of economies of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.7013980746269226,
+        "matches_gold": false,
+        "text": "e relative to the quantity demanded in the market, a natural monopoly. Natural monopolies often arise in industries where the marginal cost of adding an additional customer is very low, once the fixed costs of the overall system are in place. This results in situations where there are substantial economies of scale. For example, once a water company lays the main water pipes through a neighborhood, the marginal cost of providing water service to another home is fairly low. Once the electric comp"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p45-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 45,
+        "score": 0.6489227800919294,
+        "matches_gold": false,
+        "text": "11 Monopoly and Antitrust Policy\n\nFIGURE 11.1 Oligopoly versus Competitors in the Marketplace Large corporations, such as the natural gas\n\nproducer Kinder Morgan, can bring economies of scale to the marketplace. Will that benefit consumers, or is more competition better? (Credit: modification of “Aerial view of Kinder Morgan Brisbane Terminal” by Chiara Coetzee/ Flickr Creative Commons, Public Domain)\n\nChapter Objectives In this chapter, you will learn about:\n\n• Corporate Mergers • Regulating An"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.6467968418239609,
+        "matches_gold": true,
+        "text": "ny to enter the market and invest in a whole new set of electrical wires. These industries offer an example where, because of economies of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments.\n\nA natural monopoly can also arise in smaller local markets for products that are difficult to transport. For example, cement production exhibits economies of scale, and the quantity of cement dema"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q027",
+    "strategy": "A",
+    "split": "test",
+    "question": "What happens to a firm's quantity demanded at a given price as more firms enter a monopolistically competitive market?",
+    "expected_answer": "The quantity demanded for any particular firm declines.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 29,
+        "quote": "As more firms enter the market, the quantity demanded at a given price for any particular firm will decline"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p40-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 40,
+        "score": 0.7223556207206488,
+        "matches_gold": false,
+        "text": "l advertising campaign, a monopolistic competitor experiences an increase in demand for its product. How will that affect the price it charges and the quantity it supplies?\n\n2 . Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit- maximizi"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p39-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 39,
+        "score": 0.7194105982780457,
+        "matches_gold": false,
+        "text": "uces where P > MC. Thus, a monopolistically competitive firm will tend to produce a lower quantity at a higher cost and to charge a higher price than a perfectly competitive firm.\n\nMonopolistically competitive industries do offer benefits to consumers in the form of greater variety and incentives for improved products and services. There is some controversy over whether a market-oriented economy generates too much variety.\n\n10.2 Oligopoly\n\nAn oligopoly is a situation where a few firms sell most "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p31-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 31,
+        "score": 0.7151758244528887,
+        "matches_gold": false,
+        "text": "ived demand curve for a monopolistically competitive firm to shift to the right and the corresponding marginal revenue curve to shift right, too.\n\nA monopolistically competitive industry does not display productive or allocative efficiency in either the short run, when firms are making economic profits and losses, nor in the long run, when firms are earning zero profits.\n\nThe Benefits of Variety and Product Differentiation\n\nEven though monopolistic competition does not provide productive efficie"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q028",
+    "strategy": "A",
+    "split": "test",
+    "question": "What two conflicting temptations do oligopolistic firms face?",
+    "expected_answer": "To collaborate as if they were a single monopoly, or to compete individually by expanding output and cutting prices.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 24,
+        "quote": "which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p24-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 24,
+        "score": 0.7898278361661546,
+        "matches_gold": true,
+        "text": "stically competitive firms will choose their profit- maximizing level of output. We will then discuss oligopolistic firms, which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices. Oligopolistic markets and firms can also take on elements of monopoly and of perfect competition.\n\n10.1 Monopolistic Competition\n\nLEARNING OBJECTIVES\n\nBy the end of this section, you will be able t"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p32-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 32,
+        "score": 0.6853872316614114,
+        "matches_gold": false,
+        "text": "ompetitive. Rather, they are oligopolies. Oligopoly arises when a small number of large firms have all or most of the sales in an industry. Examples of oligopoly abound and include the auto industry, cable television, and commercial air travel. Oligopolistic firms are like cats in a bag. They can either scratch each other to pieces or cuddle up and get comfortable with one another. If oligopolists compete hard, they may end up acting very much like perfect competitors, driving down costs and lea"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p32-chunk4",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 32,
+        "score": 0.6698826354672203,
+        "matches_gold": false,
+        "text": " compete hard, they may end up acting very much like perfect competitors, driving down costs and leading to zero profits for all. If oligopolists collude with each other, they may effectively act like a monopoly and succeed in pushing up prices and earning consistently high levels of profit. We typically characterize oligopolies by mutual interdependence where various decisions such as output, price, and advertising depend on other firm(s)' decisions. Analyzing the choices of oligopolistic firms"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q001",
+    "strategy": "B",
+    "split": "dev",
+    "question": "What is a monopoly?",
+    "expected_answer": "A monopoly is a market in which one firm produces all of the output.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 2,
+        "quote": "In the case of monopoly, one firm produces all of the output in a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "monopoly a situation in which one firm produces all of the output in a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.8931656543513758,
+        "matches_gold": false,
+        "text": "Introduction to a Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p10-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 10,
+        "score": 0.814943730831152,
+        "matches_gold": false,
+        "text": "224 9 • Monopoly"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p24-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 24,
+        "score": 0.7998926162783746,
+        "matches_gold": false,
+        "text": "Monopoly arises when a single firm sells a product for which there are no close substitutes. We consider Microsoft, for instance, as a monopoly because it dominates the operating systems market."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q002",
+    "strategy": "B",
+    "split": "dev",
+    "question": "What are barriers to entry?",
+    "expected_answer": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 3,
+        "quote": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "barriers to entry the legal, technological, or market forces that may discourage or prevent potential competitors from entering a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p6-chunk11",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 6,
+        "score": 0.6654370227716591,
+        "matches_gold": false,
+        "text": "Summing Up Barriers to Entry\n\nTable 9.1 lists the barriers to entry that we have discussed. This list is not exhaustive, since firms have proved to be highly creative in inventing business practices that discourage competition. When barriers to entry exist, perfect competition is no longer a reasonable description of how an industry works. When barriers to entry are high enough, monopoly can result.\n\nAccess for free at openstax.org"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk6",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.6341868609953103,
+        "matches_gold": false,
+        "text": "Barriers to entry prevent or discourage competitors from entering the market. These barriers include: economies of scale that lead to natural monopoly; control of a physical resource; legal restrictions on competition; patent, trademark and copyright protection; and practices to intimidate the competition like predatory pricing. Intellectual property refers to legally guaranteed ownership of an idea, rather than a physical item. The laws that protect intellectual property include patents, copyri"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.5972166595354672,
+        "matches_gold": false,
+        "text": "In some cases, barriers to entry may lead to monopoly. In other cases, they may limit competition to a few firms. Barriers may block entry even if the firm or firms currently in the market are earning profits. Thus, in markets with significant barriers to entry, it is not necessarily true that abnormally high profits will attract new firms, and that this entry of new firms will eventually cause the price to decline so that surviving firms earn only a normal level of profit in the long run."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q003",
+    "strategy": "B",
+    "split": "dev",
+    "question": "What conditions lead to a natural monopoly?",
+    "expected_answer": "A natural monopoly arises when economies of scale are large relative to the quantity demanded in the market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Economists call this situation, when economies of scale are large relative to the quantity demanded in the market, a natural monopoly."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.8499055847553768,
+        "matches_gold": false,
+        "text": "Natural Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.8031097171837275,
+        "matches_gold": false,
+        "text": "ghts, trademarks, and trade secrets. A natural monopoly arises when economies of scale persist over a large enough range of output that if one firm supplies the entire market, no other firm can enter without facing a cost disadvantage."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p32-chunk9",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 32,
+        "score": 0.7632451198551001,
+        "matches_gold": false,
+        "text": "Similarly, a natural monopoly will arise when the quantity demanded in a market is only large enough for a single firm to operate at the minimum of the long-run average cost curve. In such a setting, the market has room for only one firm, because no smaller firm can operate at a low enough average cost to compete, and no larger firm could sell what it produced given the quantity demanded in the market."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q004",
+    "strategy": "B",
+    "split": "dev",
+    "question": "In section 9.1, why were other firms unable to compete with ALCOA in aluminum in the 1930s?",
+    "expected_answer": "ALCOA controlled most of the supply of bauxite, so other firms could not produce enough aluminum to compete.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.6172640919685364,
+        "matches_gold": true,
+        "text": "Control of a Physical Resource\n\nAnother type of monopoly occurs when a company has control of a scarce physical resource. In the U.S. economy, one historical example of this pattern occurred when ALCOA—the Aluminum Company of America—controlled most of the supply of bauxite, a key mineral used in making aluminum. Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p20-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 20,
+        "score": 0.5653089453372048,
+        "matches_gold": false,
+        "text": "Critical Thinking Questions\n\n25 . ALCOA does not have the monopoly power it once had. How do you suppose their barriers to entry were weakened?\n\n26 . Why are generic pharmaceuticals significantly cheaper than name brand ones?"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p48-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 48,
+        "score": 0.4439120557255787,
+        "matches_gold": false,
+        "text": "t the goading of competition, it was not clear that they were as efficient or innovative as they could be."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q005",
+    "strategy": "B",
+    "split": "dev",
+    "question": "What do governments do to create a legal monopoly?",
+    "expected_answer": "The government erects barriers to entry by prohibiting or limiting competition.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 5,
+        "quote": "For some products, the government erects barriers to entry by prohibiting or limiting competition."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "legal monopoly legal prohibitions against competition, such as regulated monopolies and intellectual property protection"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p5-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 5,
+        "score": 0.7845136523246821,
+        "matches_gold": false,
+        "text": "Legal Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p45-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 45,
+        "score": 0.7084753091052003,
+        "matches_gold": false,
+        "text": "Introduction to Monopoly and Antitrust Policy"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.6850353071072527,
+        "matches_gold": false,
+        "text": "Introduction to a Monopoly"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q024",
+    "strategy": "B",
+    "split": "test",
+    "question": "What did the British Tea Act make the East India Company in the American colonies?",
+    "expected_answer": "The sole legal supplier of tea to the American colonies.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 1,
+        "quote": "The act continued the tax on teas and made the East India Company the sole legal supplier of tea to the American colonies."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk4",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.7693230051205765,
+        "matches_gold": false,
+        "text": "The Rest is History Many of the opening case studies have focused on current events. This one steps into the past to observe how monopoly, or near monopolies, have helped shape history. In spring 1773, the East India Company, a firm that, in its time, was designated “too big to fail,” was experiencing financial difficulties. To help shore up the failing firm, the British Parliament authorized the Tea Act. The act continued the tax on teas and made the East India Company the sole legal supplier o"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6986807168316427,
+        "matches_gold": false,
+        "text": "Did the monopoly nature of these business have unintended and historical consequences? Might the American Revolution have been deterred, if the East India Company had sailed the tea-bearing ships back to England? Might the southern states have made different decisions had they not been so confident “King Cotton” would force diplomatic recognition of the Confederate States of America? Of course, it is not possible to definitively answer"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6545416528532919,
+        "matches_gold": false,
+        "text": "BRING IT HOME\n\nThe Rest is History In the opening case, we presented the East India Company and the Confederate States as a monopoly or near monopoly provider of a good. Nearly every American schoolchild knows the result of the “unwelcome visit” the “Mohawks” bestowed upon Boston Harbor’s tea-bearing ships—the Boston Tea Party. Regarding the cotton industry, we also know Great Britain remained neutral during the Civil War, taking neither side during the conflict."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q025",
+    "strategy": "B",
+    "split": "test",
+    "question": "What is the key difference between marginal revenue for a perfectly competitive firm and for a monopolist?",
+    "expected_answer": "Under perfect competition marginal revenue equals price; for a monopolist it does not, because changes in output affect the price.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 13,
+        "quote": "in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p13-chunk13",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 13,
+        "score": 0.7774503231048584,
+        "matches_gold": true,
+        "text": "A perfectly competitive firm will also find its profit-maximizing level of output where MR = MC. The key difference with a perfectly competitive firm is that in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price, because changes in quantity of output affect the price."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p39-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 39,
+        "score": 0.751321993807614,
+        "matches_gold": false,
+        "text": "marginal cost. The monopolistic competitor will produce that level of output and charge the price that the firm’s demand curve indicates."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p10-chunk14",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 10,
+        "score": 0.7290626168251038,
+        "matches_gold": false,
+        "text": " to extrapolate from current experience. A monopolist can use information on marginal revenue and marginal cost to seek out the profit-maximizing combination of quantity and price."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q026",
+    "strategy": "B",
+    "split": "test",
+    "question": "In section 9.1, why can one producer serve the market more efficiently than several smaller natural-monopoly utilities?",
+    "expected_answer": "Because of economies of scale, one producer avoids the duplicate physical capital investments that smaller producers would need.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "because of economies of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.7069381054080675,
+        "matches_gold": false,
+        "text": "of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p32-chunk9",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 32,
+        "score": 0.6811507940292358,
+        "matches_gold": false,
+        "text": "Similarly, a natural monopoly will arise when the quantity demanded in a market is only large enough for a single firm to operate at the minimum of the long-run average cost curve. In such a setting, the market has room for only one firm, because no smaller firm can operate at a low enough average cost to compete, and no larger firm could sell what it produced given the quantity demanded in the market."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p45-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 45,
+        "score": 0.6575254610150549,
+        "matches_gold": false,
+        "text": "11 Monopoly and Antitrust Policy\n\nFIGURE 11.1 Oligopoly versus Competitors in the Marketplace Large corporations, such as the natural gas\n\nproducer Kinder Morgan, can bring economies of scale to the marketplace. Will that benefit consumers, or is more competition better? (Credit: modification of “Aerial view of Kinder Morgan Brisbane Terminal” by Chiara Coetzee/ Flickr Creative Commons, Public Domain)"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q027",
+    "strategy": "B",
+    "split": "test",
+    "question": "What happens to a firm's quantity demanded at a given price as more firms enter a monopolistically competitive market?",
+    "expected_answer": "The quantity demanded for any particular firm declines.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 29,
+        "quote": "As more firms enter the market, the quantity demanded at a given price for any particular firm will decline"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p40-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 40,
+        "score": 0.7956935885135195,
+        "matches_gold": false,
+        "text": "2 . Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit- maximizing price and output levels?"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p20-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 20,
+        "score": 0.742073319616119,
+        "matches_gold": false,
+        "text": "24 . How does the quantity produced and price charged by a monopolist compare to that of a perfectly competitive firm?"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p30-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 30,
+        "score": 0.736656948128758,
+        "matches_gold": false,
+        "text": "Unlike a monopoly, with its high barriers to entry, a monopolistically competitive firm with positive economic profits will attract competition. When another competitor enters the market, the original firm’s perceived demand curve shifts to the left, from D0 to D1, and the associated marginal revenue curve shifts from MR0 to MR1. The new profit-maximizing output is Q1, because the intersection of the MR1 and MC now occurs at point U. Moving vertically up from that quantity on the new demand curv"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q028",
+    "strategy": "B",
+    "split": "test",
+    "question": "What two conflicting temptations do oligopolistic firms face?",
+    "expected_answer": "To collaborate as if they were a single monopoly, or to compete individually by expanding output and cutting prices.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 24,
+        "quote": "which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p24-chunk8",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 24,
+        "score": 0.6869569625543719,
+        "matches_gold": true,
+        "text": "the decisions of the other firms in the market. In this chapter, we first explore how monopolistically competitive firms will choose their profit- maximizing level of output. We will then discuss oligopolistic firms, which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices. Oligopolistic markets and firms can also take on elements of monopoly and of perfect competition."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p37-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 37,
+        "score": 0.6588235897176414,
+        "matches_gold": false,
+        "text": "Many real-world oligopolies, prodded by economic changes, legal and political pressures, and the egos of their top executives, go through episodes of cooperation and competition. If oligopolies could sustain cooperation with each other on output and pricing, they could earn profits as if they were a single monopoly. However, each firm in an oligopoly has an incentive to produce more and grab a bigger share of the overall market; when firms start behaving in this way, the market outcome in terms "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p48-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 48,
+        "score": 0.6524490532339748,
+        "matches_gold": false,
+        "text": "262 11 • Monopoly and Antitrust Policy\n\nof corporate personalities that makes both firms worse off. However, the fundamental belief behind a market- oriented economy is that firms, not governments, are in the best position to know if their actions will lead to attracting more customers or producing more efficiently."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q001",
+    "strategy": "C",
+    "split": "dev",
+    "question": "What is a monopoly?",
+    "expected_answer": "A monopoly is a market in which one firm produces all of the output.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 2,
+        "quote": "In the case of monopoly, one firm produces all of the output in a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "monopoly a situation in which one firm produces all of the output in a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.8931656543513758,
+        "matches_gold": false,
+        "text": "Introduction to a Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p10-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 10,
+        "score": 0.814943730831152,
+        "matches_gold": false,
+        "text": "224 9 • Monopoly"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p24-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 24,
+        "score": 0.7998926162783746,
+        "matches_gold": false,
+        "text": "Monopoly arises when a single firm sells a product for which there are no close substitutes. We consider Microsoft, for instance, as a monopoly because it dominates the operating systems market."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q002",
+    "strategy": "C",
+    "split": "dev",
+    "question": "What are barriers to entry?",
+    "expected_answer": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 3,
+        "quote": "Barriers to entry are the legal, technological, or market forces that discourage or prevent potential competitors from entering a market."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "barriers to entry the legal, technological, or market forces that may discourage or prevent potential competitors from entering a market"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p6-chunk11",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 6,
+        "score": 0.6654370227716591,
+        "matches_gold": false,
+        "text": "Summing Up Barriers to Entry\n\nTable 9.1 lists the barriers to entry that we have discussed. This list is not exhaustive, since firms have proved to be highly creative in inventing business practices that discourage competition. When barriers to entry exist, perfect competition is no longer a reasonable description of how an industry works. When barriers to entry are high enough, monopoly can result.\n\nAccess for free at openstax.org"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk6",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.6341868609953103,
+        "matches_gold": false,
+        "text": "Barriers to entry prevent or discourage competitors from entering the market. These barriers include: economies of scale that lead to natural monopoly; control of a physical resource; legal restrictions on competition; patent, trademark and copyright protection; and practices to intimidate the competition like predatory pricing. Intellectual property refers to legally guaranteed ownership of an idea, rather than a physical item. The laws that protect intellectual property include patents, copyri"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.5972166595354672,
+        "matches_gold": false,
+        "text": "In some cases, barriers to entry may lead to monopoly. In other cases, they may limit competition to a few firms. Barriers may block entry even if the firm or firms currently in the market are earning profits. Thus, in markets with significant barriers to entry, it is not necessarily true that abnormally high profits will attract new firms, and that this entry of new firms will eventually cause the price to decline so that surviving firms earn only a normal level of profit in the long run."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q003",
+    "strategy": "C",
+    "split": "dev",
+    "question": "What conditions lead to a natural monopoly?",
+    "expected_answer": "A natural monopoly arises when economies of scale are large relative to the quantity demanded in the market.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Economists call this situation, when economies of scale are large relative to the quantity demanded in the market, a natural monopoly."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p3-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 3,
+        "score": 0.8499055847553768,
+        "matches_gold": false,
+        "text": "Natural Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p18-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 18,
+        "score": 0.8031097171837275,
+        "matches_gold": false,
+        "text": "ghts, trademarks, and trade secrets. A natural monopoly arises when economies of scale persist over a large enough range of output that if one firm supplies the entire market, no other firm can enter without facing a cost disadvantage."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p32-chunk9",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 32,
+        "score": 0.7632451198551001,
+        "matches_gold": false,
+        "text": "Similarly, a natural monopoly will arise when the quantity demanded in a market is only large enough for a single firm to operate at the minimum of the long-run average cost curve. In such a setting, the market has room for only one firm, because no smaller firm can operate at a low enough average cost to compete, and no larger firm could sell what it produced given the quantity demanded in the market."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q004",
+    "strategy": "C",
+    "split": "dev",
+    "question": "In section 9.1, why were other firms unable to compete with ALCOA in aluminum in the 1930s?",
+    "expected_answer": "ALCOA controlled most of the supply of bauxite, so other firms could not produce enough aluminum to compete.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk5",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.6172640919685364,
+        "matches_gold": true,
+        "text": "Control of a Physical Resource\n\nAnother type of monopoly occurs when a company has control of a scarce physical resource. In the U.S. economy, one historical example of this pattern occurred when ALCOA—the Aluminum Company of America—controlled most of the supply of bauxite, a key mineral used in making aluminum. Back in the 1930s, when ALCOA controlled most of the bauxite, other firms were simply unable to produce enough aluminum to compete."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p6-chunk8",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 6,
+        "score": 0.4277829059297714,
+        "matches_gold": false,
+        "text": "After the company repeats this pattern once or twice, potential new entrants may decide that it is not wise to try to compete. Small airlines often accuse larger airlines of predatory pricing: in the early 2000s, for example, ValuJet accused Delta of predatory pricing, Frontier accused United, and Reno Air accused Northwest. In 2015, the Justice Department ruled against American Express and Mastercard for imposing restrictions on retailers that encouraged customers to use lower swipe fees on cre"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q005",
+    "strategy": "C",
+    "split": "dev",
+    "question": "What do governments do to create a legal monopoly?",
+    "expected_answer": "The government erects barriers to entry by prohibiting or limiting competition.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 5,
+        "quote": "For some products, the government erects barriers to entry by prohibiting or limiting competition."
+      },
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 18,
+        "quote": "legal monopoly legal prohibitions against competition, such as regulated monopolies and intellectual property protection"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p5-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 5,
+        "score": 0.7845136523246821,
+        "matches_gold": false,
+        "text": "Legal Monopoly"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p45-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 45,
+        "score": 0.7084753091052003,
+        "matches_gold": false,
+        "text": "Introduction to Monopoly and Antitrust Policy"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.6850353071072527,
+        "matches_gold": false,
+        "text": "Introduction to a Monopoly"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q024",
+    "strategy": "C",
+    "split": "test",
+    "question": "What did the British Tea Act make the East India Company in the American colonies?",
+    "expected_answer": "The sole legal supplier of tea to the American colonies.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 1,
+        "quote": "The act continued the tax on teas and made the East India Company the sole legal supplier of tea to the American colonies."
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p1-chunk4",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 1,
+        "score": 0.7693230051205765,
+        "matches_gold": false,
+        "text": "The Rest is History Many of the opening case studies have focused on current events. This one steps into the past to observe how monopoly, or near monopolies, have helped shape history. In spring 1773, the East India Company, a firm that, in its time, was designated “too big to fail,” was experiencing financial difficulties. To help shore up the failing firm, the British Parliament authorized the Tea Act. The act continued the tax on teas and made the East India Company the sole legal supplier o"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6986807168316427,
+        "matches_gold": false,
+        "text": "Did the monopoly nature of these business have unintended and historical consequences? Might the American Revolution have been deterred, if the East India Company had sailed the tea-bearing ships back to England? Might the southern states have made different decisions had they not been so confident “King Cotton” would force diplomatic recognition of the Confederate States of America? Of course, it is not possible to definitively answer"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p17-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 17,
+        "score": 0.6545416528532919,
+        "matches_gold": false,
+        "text": "BRING IT HOME\n\nThe Rest is History In the opening case, we presented the East India Company and the Confederate States as a monopoly or near monopoly provider of a good. Nearly every American schoolchild knows the result of the “unwelcome visit” the “Mohawks” bestowed upon Boston Harbor’s tea-bearing ships—the Boston Tea Party. Regarding the cotton industry, we also know Great Britain remained neutral during the Civil War, taking neither side during the conflict."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q025",
+    "strategy": "C",
+    "split": "test",
+    "question": "What is the key difference between marginal revenue for a perfectly competitive firm and for a monopolist?",
+    "expected_answer": "Under perfect competition marginal revenue equals price; for a monopolist it does not, because changes in output affect the price.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 13,
+        "quote": "in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p13-chunk13",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 13,
+        "score": 0.7774503231048584,
+        "matches_gold": true,
+        "text": "A perfectly competitive firm will also find its profit-maximizing level of output where MR = MC. The key difference with a perfectly competitive firm is that in the case of perfect competition, marginal revenue is equal to price (MR = P), while for a monopolist, marginal revenue is not equal to the price, because changes in quantity of output affect the price."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p39-chunk7",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 39,
+        "score": 0.751321993807614,
+        "matches_gold": false,
+        "text": "marginal cost. The monopolistic competitor will produce that level of output and charge the price that the firm’s demand curve indicates."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p10-chunk14",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 10,
+        "score": 0.7290626168251038,
+        "matches_gold": false,
+        "text": " to extrapolate from current experience. A monopolist can use information on marginal revenue and marginal cost to seek out the profit-maximizing combination of quantity and price."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q026",
+    "strategy": "C",
+    "split": "test",
+    "question": "In section 9.1, why can one producer serve the market more efficiently than several smaller natural-monopoly utilities?",
+    "expected_answer": "Because of economies of scale, one producer avoids the duplicate physical capital investments that smaller producers would need.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 4,
+        "quote": "because of economies of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.7069381054080675,
+        "matches_gold": false,
+        "text": "of scale, one producer can serve the entire market more efficiently than a number of smaller producers that would need to make duplicate physical capital investments."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p4-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 4,
+        "score": 0.6560529665962749,
+        "matches_gold": false,
+        "text": "Economists call this situation, when economies of scale are large relative to the quantity demanded in the market, a natural monopoly. Natural monopolies often arise in industries where the marginal cost of adding an additional customer is very low, once the fixed costs of the overall system are in place. This results in situations where there are substantial economies of scale. For example, once a water company lays the main water pipes through a neighborhood, the marginal cost of providing wat"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p5-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 5,
+        "score": 0.6323027014732361,
+        "matches_gold": false,
+        "text": "overnment allows producers to become regulated monopolies, to ensure that customers have access to an appropriate amount of these products or services. Additionally, legal monopolies are often subject to economies of scale, so it makes sense to allow only one provider."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q027",
+    "strategy": "C",
+    "split": "test",
+    "question": "What happens to a firm's quantity demanded at a given price as more firms enter a monopolistically competitive market?",
+    "expected_answer": "The quantity demanded for any particular firm declines.",
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 29,
+        "quote": "As more firms enter the market, the quantity demanded at a given price for any particular firm will decline"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p40-chunk2",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 40,
+        "score": 0.7956935885135195,
+        "matches_gold": false,
+        "text": "2 . Continuing with the scenario in question 1, in the long run, the positive economic profits that the monopolistic competitor earns will attract a response either from existing firms in the industry or firms outside. As those firms capture the original firm’s profit, what will happen to the original firm’s profit- maximizing price and output levels?"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p20-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 20,
+        "score": 0.742073319616119,
+        "matches_gold": false,
+        "text": "24 . How does the quantity produced and price charged by a monopolist compare to that of a perfectly competitive firm?"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p30-chunk1",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 30,
+        "score": 0.736656948128758,
+        "matches_gold": false,
+        "text": "Unlike a monopoly, with its high barriers to entry, a monopolistically competitive firm with positive economic profits will attract competition. When another competitor enters the market, the original firm’s perceived demand curve shifts to the left, from D0 to D1, and the associated marginal revenue curve shifts from MR0 to MR1. The new profit-maximizing output is Q1, because the intersection of the MR1 and MC now occurs at point U. Moving vertically up from that quantity on the new demand curv"
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  },
+  {
+    "question_id": "Q028",
+    "strategy": "C",
+    "split": "test",
+    "question": "What two conflicting temptations do oligopolistic firms face?",
+    "expected_answer": "To collaborate as if they were a single monopoly, or to compete individually by expanding output and cutting prices.",
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "gold_evidence": [
+      {
+        "source": "principles-economics-3e-monopoly",
+        "page": 24,
+        "quote": "which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices"
+      }
+    ],
+    "retrieved_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "principles-economics-3e-monopoly-p24-chunk8",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 24,
+        "score": 0.6869569625543719,
+        "matches_gold": true,
+        "text": "the decisions of the other firms in the market. In this chapter, we first explore how monopolistically competitive firms will choose their profit- maximizing level of output. We will then discuss oligopolistic firms, which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices. Oligopolistic markets and firms can also take on elements of monopoly and of perfect competition."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "principles-economics-3e-monopoly-p37-chunk3",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 37,
+        "score": 0.6588235897176414,
+        "matches_gold": false,
+        "text": "Many real-world oligopolies, prodded by economic changes, legal and political pressures, and the egos of their top executives, go through episodes of cooperation and competition. If oligopolies could sustain cooperation with each other on output and pricing, they could earn profits as if they were a single monopoly. However, each firm in an oligopoly has an incentive to produce more and grab a bigger share of the overall market; when firms start behaving in this way, the market outcome in terms "
+      },
+      {
+        "rank": 3,
+        "chunk_id": "principles-economics-3e-monopoly-p48-chunk0",
+        "document_id": "principles-economics-3e-monopoly",
+        "source": "..\\data\\principles-economics-3e-monopoly.pdf",
+        "page": 48,
+        "score": 0.6524490532339748,
+        "matches_gold": false,
+        "text": "262 11 • Monopoly and Antitrust Policy\n\nof corporate personalities that makes both firms worse off. However, the fundamental belief behind a market- oriented economy is that firms, not governments, are in the best position to know if their actions will lead to attracting more customers or producing more efficiently."
+      }
+    ],
+    "human_grounding": null,
+    "chunk_coherence": null,
+    "manual_assessment": {
+      "human_grounding": null,
+      "chunk_coherence": null
+    }
+  }
+]
